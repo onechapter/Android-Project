@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Log in</string>
+    <string name="language">Language: EN</string>
+    <string name="err_mail_empty_message">Email không được để trống!</string>
+    <string name="err_mail_format_message">Email không đúng định dạng!</string>
+    <string name="err_password_empty_message">Password không được để trống!</string>
+
+</resources>

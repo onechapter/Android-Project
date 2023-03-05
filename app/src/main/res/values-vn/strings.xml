@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ứng dụng của tôi</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="language">Ngôn ngữ: VN</string>
+    <string name="err_mail_empty_message">Email can't empty!</string>
+    <string name="err_mail_format_message">Email invalidate!</string>
+    <string name="err_password_empty_message">Password invalidate!</string>
+</resources>
